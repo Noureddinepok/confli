@@ -1,3 +1,3 @@
 # confli
 Bonjour tous le monde
-Gerer les conflits dans B1
+Gerer les conflits dans B2
